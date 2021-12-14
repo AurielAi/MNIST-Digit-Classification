@@ -1,6 +1,6 @@
 # MNIST-Handwritten Digit-Classification using ANN 
 
-## For this assignment, I will be working on the MNIST database. The MNIST data is a database of handwritten digits from 0 to 9. The database contains 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images. I have created an ANN model for identifying the digit from the handwritten images.
+## For this assignment, I have worked on the MNIST database. The MNIST data is a database of handwritten digits from 0 to 9. The database contains 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images. I have created an ANN model for identifying the digit from the handwritten images.
 
 ## Steps :
 1. Loading the database to variable named digit_mnist using the Keras inbuilt datasets
@@ -22,6 +22,8 @@
 9. Predict the digit for the first 5 records of the test dataset
 
 10. Comparison of Test data and classified output.
+
+![image](https://user-images.githubusercontent.com/85127724/146087043-e1856b87-ace7-4b3a-b980-d35ac12051d4.png)
 
 ![image](https://user-images.githubusercontent.com/85127724/145874599-4da6e47e-b96b-4361-9b85-7394a7203377.png)
 
